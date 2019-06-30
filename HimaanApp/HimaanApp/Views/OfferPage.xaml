@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HimaanApp.Views.OfferPage">
+        <ContentPage.Resources>
+            <ResourceDictionary>
+                <x:Boolean x:Key="true">True</x:Boolean>
+                <x:Boolean x:Key="false">False</x:Boolean>
+            </ResourceDictionary>
+        </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout
+        Orientation="Vertical"
+        Padding="25"
+        VerticalOptions="Center">
+            <Label
+                Text="From"/>
+            <Entry
+                Text="{Binding From.Value}">
+            </Entry>
+            <Label
+                Text="To"/>
+            <Entry
+                Text="{Binding To.Value}" />
+            <Label
+                Text="Date"/>
+            <DatePicker
+                MinimumDate="{Binding MinDate}"
+                Date="{Binding DateSelect.Value}"/>
+            <Label
+            Text="Free seats"/>
+            <Entry
+            Text="{Binding Seats.Value}" />
+            <Label
+            Text="Description"/>
+            <Entry
+            Text="{Binding Description.Value}" />
+            <Button
+            Text="Offer!"
+            Command="{Binding OfferCmd}" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

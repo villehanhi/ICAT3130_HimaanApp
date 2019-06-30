@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "81747878099",
+    "firebase_url": "https://himaandatabase.firebaseio.com",
+    "project_id": "himaandatabase",
+    "storage_bucket": "himaandatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81747878099:android:4857fd84d6f2b957",
+        "android_client_info": {
+          "package_name": "FFirebaseAuthExample.Droid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81747878099-ogn1d286rka2p5rv0sdlhl1i3lpcn5mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5VKByK28_rKTaE6M5FfHOLGR8QhlwCJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81747878099-ogn1d286rka2p5rv0sdlhl1i3lpcn5mj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81747878099-e3v2mmtri43s3m9mj03ft8gueim5qvl2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "FFirebaseAuthExample.iOS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81747878099:android:b59e30d886e4323f",
+        "android_client_info": {
+          "package_name": "Himaan.Android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81747878099-ogn1d286rka2p5rv0sdlhl1i3lpcn5mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5VKByK28_rKTaE6M5FfHOLGR8QhlwCJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81747878099-ogn1d286rka2p5rv0sdlhl1i3lpcn5mj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81747878099-e3v2mmtri43s3m9mj03ft8gueim5qvl2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "FFirebaseAuthExample.iOS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81747878099:android:c70f06f872956958",
+        "android_client_info": {
+          "package_name": "HimaanApp.Android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81747878099-ogn1d286rka2p5rv0sdlhl1i3lpcn5mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5VKByK28_rKTaE6M5FfHOLGR8QhlwCJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81747878099-ogn1d286rka2p5rv0sdlhl1i3lpcn5mj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81747878099-e3v2mmtri43s3m9mj03ft8gueim5qvl2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "FFirebaseAuthExample.iOS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

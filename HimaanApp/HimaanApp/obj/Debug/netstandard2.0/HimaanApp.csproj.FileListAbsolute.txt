@@ -1,0 +1,17 @@
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp\bin\Debug\netstandard2.0\HimaanApp.deps.json
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp\bin\Debug\netstandard2.0\HimaanApp.dll
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp\bin\Debug\netstandard2.0\HimaanApp.pdb
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp\obj\Debug\netstandard2.0\HimaanApp.csprojAssemblyReference.cache
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp\obj\Debug\netstandard2.0\HimaanApp.csproj.CoreCompileInputs.cache
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp\obj\Debug\netstandard2.0\HimaanApp.AssemblyInfoInputs.cache
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp\obj\Debug\netstandard2.0\HimaanApp.AssemblyInfo.cs
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp\obj\Debug\netstandard2.0\HimaanApp.csproj.Fody.CopyLocal.cache
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp\obj\Debug\netstandard2.0\HimaanApp.dll
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp\obj\Debug\netstandard2.0\HimaanApp.pdb
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp\obj\Debug\netstandard2.0\Views\NeedPage.xaml.g.cs
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp\obj\Debug\netstandard2.0\Views\OfferPage.xaml.g.cs
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp\obj\Debug\netstandard2.0\Views\SearchPage.xaml.g.cs

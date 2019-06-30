@@ -1,0 +1,8 @@
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp.iOS\obj\iPhoneSimulator\Debug\HimaanApp.iOS.csprojAssemblyReference.cache
+C:\Users\Ville\source\repos\HimaanApp\HimaanApp\HimaanApp.iOS\obj\iPhoneSimulator\Debug\HimaanApp.iOS.csproj.CoreCompileInputs.cache

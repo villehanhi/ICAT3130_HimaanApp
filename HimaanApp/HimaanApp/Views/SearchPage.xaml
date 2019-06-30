@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="HimaanApp.Views.SearchPage"
+              Title="Himaan Search">
+    <ContentPage>
+        <ContentPage.Content>
+            <StackLayout>
+                <Label FontSize="30"
+                   Text="Offered rides"/>
+                <Label Text="Swipe left for asked rides"/>
+                <Button Command="{Binding SearchCmd}" Text="Search" />
+                <ListView ItemsSource="{Binding OfferItems}"
+                          RowHeight="80">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Orientation="Vertical">
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="{Binding offerFrom}" 
+                                               TextColor="Black"
+                                               FontSize="20"/>
+                                        <Label Text="{Binding offerTo}" 
+                                          TextColor="Black"
+                                               FontSize="20"/>
+                                        <Label Text="{Binding offerDate, StringFormat='Date \{0:dd.MM.yyyy}'}" 
+                                          TextColor="Black"
+                                               FontSize="20"/>
+                                    </StackLayout>
+                                    <Label Text="{Binding offerDescription}"
+                                           TextColor="Black"/>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+    <ContentPage Title="Asked rides">
+        <ContentPage.Content>
+            <StackLayout>
+                <Label FontSize="30"
+                   Text="Asked rides"/>
+                <Label Text="Swipe rigth for offered rides"/>
+                <Button Command="{Binding NeedSearchCmd}" Text="Search" />
+                <ListView ItemsSource="{Binding NeedItems}"
+                          RowHeight="60">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Orientation="Vertical">
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="{Binding needFrom}" 
+                                          TextColor="Black"
+                                               FontSize="20"/>
+                                        <Label Text="{Binding needTo}" 
+                                          TextColor="Black"
+                                               FontSize="20"/>
+                                        <Label Text="{Binding needDate, StringFormat='Date \{0:dd.MM.yyyy}'}" 
+                                          TextColor="Black"
+                                               FontSize="20"/>
+                                    </StackLayout>
+                                    <Label Text="{Binding needDescription}"
+                                           TextColor="Black"/>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+</CarouselPage>
+        

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:s="clr-namespace:System;assembly=mscorlib"
+             x:Class="HimaanApp.Views.MainPage"
+             Title="Himaan">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <x:Boolean x:Key="true">True</x:Boolean>
+            <x:Boolean x:Key="false">False</x:Boolean>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout
+        Padding="25"
+        VerticalOptions="Center"
+        Orientation="Vertical">
+        <ActivityIndicator
+            IsVisible="{Binding IsBusy}"
+            IsRunning="{Binding IsBusy}" />
+        <Button
+            Text="Offer a ride!"
+            Command="{Binding Offer}"
+            CommandParameter="{StaticResource true}"/>
+        <Button
+            Text="Ask for a ride!"
+            Command="{Binding Need}"
+            CommandParameter="{StaticResource true}"/>
+        <Button
+            Text="Search"
+            Command="{Binding Search}"
+            CommandParameter="{StaticResource true}"/>
+        <Label
+            HorizontalTextAlignment="Center"
+            Text="{Binding RemoteData}" />
+    </StackLayout>
+
+</ContentPage>

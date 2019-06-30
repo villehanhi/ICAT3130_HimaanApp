@@ -1,0 +1,14 @@
+C:\Users\Ville\source\repos\HimaanApp\HimaanAppWebApi\bin\Debug\netcoreapp2.1\HimaanAppWebApi.deps.json
+C:\Users\Ville\source\repos\HimaanApp\HimaanAppWebApi\bin\Debug\netcoreapp2.1\HimaanAppWebApi.runtimeconfig.json
+C:\Users\Ville\source\repos\HimaanApp\HimaanAppWebApi\bin\Debug\netcoreapp2.1\HimaanAppWebApi.runtimeconfig.dev.json
+C:\Users\Ville\source\repos\HimaanApp\HimaanAppWebApi\bin\Debug\netcoreapp2.1\HimaanAppWebApi.dll
+C:\Users\Ville\source\repos\HimaanApp\HimaanAppWebApi\bin\Debug\netcoreapp2.1\HimaanAppWebApi.pdb
+C:\Users\Ville\source\repos\HimaanApp\HimaanAppWebApi\obj\Debug\netcoreapp2.1\HimaanAppWebApi.csprojAssemblyReference.cache
+C:\Users\Ville\source\repos\HimaanApp\HimaanAppWebApi\obj\Debug\netcoreapp2.1\HimaanAppWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Ville\source\repos\HimaanApp\HimaanAppWebApi\obj\Debug\netcoreapp2.1\HimaanAppWebApi.RazorAssemblyInfo.cache
+C:\Users\Ville\source\repos\HimaanApp\HimaanAppWebApi\obj\Debug\netcoreapp2.1\HimaanAppWebApi.RazorAssemblyInfo.cs
+C:\Users\Ville\source\repos\HimaanApp\HimaanAppWebApi\obj\Debug\netcoreapp2.1\HimaanAppWebApi.AssemblyInfoInputs.cache
+C:\Users\Ville\source\repos\HimaanApp\HimaanAppWebApi\obj\Debug\netcoreapp2.1\HimaanAppWebApi.AssemblyInfo.cs
+C:\Users\Ville\source\repos\HimaanApp\HimaanAppWebApi\obj\Debug\netcoreapp2.1\HimaanAppWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Ville\source\repos\HimaanApp\HimaanAppWebApi\obj\Debug\netcoreapp2.1\HimaanAppWebApi.dll
+C:\Users\Ville\source\repos\HimaanApp\HimaanAppWebApi\obj\Debug\netcoreapp2.1\HimaanAppWebApi.pdb

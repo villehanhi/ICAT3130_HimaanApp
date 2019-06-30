@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>81747878099-m77m20r42f13ksum0sjui0fvlud2m13d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.81747878099-m77m20r42f13ksum0sjui0fvlud2m13d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsQNbrfWT8TL6fMAIKKDToyGfL_FJiW2c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>81747878099</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>HimaanApp.iOS</string>
+	<key>PROJECT_ID</key>
+	<string>himaandatabase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>himaandatabase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:81747878099:ios:b61ce903fd338aa8</string>
+	<key>DATABASE_URL</key>
+	<string>https://himaandatabase.firebaseio.com</string>
+</dict>
+</plist>

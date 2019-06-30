@@ -1,0 +1,1 @@
+<resources><string name="gcm_defaultSenderId" translatable="false">81747878099</string><string name="firebase_database_url" translatable="false">https://himaandatabase.firebaseio.com</string><string name="google_storage_bucket" translatable="false">himaandatabase.appspot.com</string></resources>
